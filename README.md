@@ -1,4 +1,4 @@
-adityasethi.github.io
-=====================
+Resume
+======
 
-For github pages
+Information about me
