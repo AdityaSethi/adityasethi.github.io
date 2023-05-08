@@ -802,6 +802,8 @@ properly.
 	text-align: center !important;
 }
 
-
+.main-col p {
+   text-align: justify;
+}
 
 
